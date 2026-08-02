@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.prashantpatel052000_rgb.twa",
-        "sha256_cert_fingerprints": ["22:91:23:3C:64:17:1C:79:9A:5D:9D:80:63:14:3D:7C:E4:1D:37:4E:6F:8B:11:85:2F:8F:67:57:C5:DF:EF:5C"]
+        "sha256_cert_fingerprints": ["8A:38:6A:E1:9D:8C:AA:C2:9F:24:BD:9B:0F:B0:F4:41:00:92:2E:72:6B:B8:69:CA:E9:CC:22:1E:B5:77:BA:68"]
       }
     }]
